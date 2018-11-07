@@ -1,0 +1,22 @@
+body{
+    background: url("https://cdn.pixabay.com/photo/2017/08/12/10/13/background-2633962__340.jpg");
+    
+}
+h1{
+    font-family: 'Playfair Display', serif;
+    color: purple;
+    text-decoration: underline;
+}
+p{
+    font-family: 'Playfair Display', serif;
+    color: purple;
+}
+ul{
+    font-family: 'Playfair Display', serif;
+    color:purple;
+}
+img {
+    width: 300px;
+    border: 10px solid blue;
+    border-radius: 75px;
+}
